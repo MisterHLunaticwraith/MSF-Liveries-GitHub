@@ -1,14 +1,49 @@
 <p align="center">
-    <img src="https://github.com/MisterHLunaticwraith/TGV_MissionFramework_V2_Files/blob/master/frameworkPOWERED.png" width="480">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/CessnaBlackLogo.png" width="480">
 </p>
 
 <p align="center">
-    <sup><strong>Requiert les mods  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1370117232">TGV_Custom Assets</a>et<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1196049538">MRH MilsimTools</a>.<br/>
-    Retrouvez nous :<a href="https://twitter.com/TGVArma3Milsim">Twitter</a> | <a href="http://tgv.ovh/">Web</a> | <a href="https://discord.gg/BRNyUSk">Discord</a> | <a href="https://github.com/MisterHLunaticwraith/TGV_Assets">Git hub de TGV Assets</a></strong></sup>
+    <sup><strong>A collection of liveries I made for MFS Flightsimulator</strong></sup>
 </p>
 
-# Framework de mission TGV v2.0.0
-* par : **[TGV] Mr H.**
+# About :
+* All liveries by ** Mr H.**
+* All liveries are free to distribute and modify
 
-## Ce framework requiert l'addon TGV_Assets
-* Un framework pensé pour réduire la taille des fichiers de mission et faciliter la création de mission en automatisant certains réglages.
+# DA40 NG Liveries
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/liverychoice.PNG" width="480">
+</p>
+
+## Flying motherfucker
+* This was the first livery I made for a video tutorial.
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/motherfucker.PNG" width="480">
+</p>
+
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/motherfuckermanhattan.PNG" width="480">
+</p>
+
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/motherfuckermanhattan2.PNG" width="480">
+</p>
+
+## Pirate DA40
+* Just a pirate themed paint job
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/Pirate.PNG" width="480">
+</p>
+
+<p align="center">
+    <img src="https://github.com/MisterHLunaticwraith/MSF-Liveries-GitHub/blob/master/Screenshots/PirateGizeh.PNG" width="480">
+</p>
+
+# Sources of the decals
+* I didn't create the some of the decals on these liveries, when that is the case the decals I found where under Creative Commons licensing, all credits go to their original creators. Sources are listed in the manifest.json files
+Links to the source files :
+<a href="https://pixabay.com/vectors/halloween-horror-skeleton-skull-2027480/"> 3 skulls decal </a>.<br/>
+
+<a href="https://pixabay.com/vectors/pirate-crossbones-skull-flag-bones-47705/"> Pirate flag decal </a>.<br/>
+
+<a href="https://pixabay.com/vectors/afterburner-burn-reheater-fire-150135/">Afterburner flame decal</a>.<br/>
