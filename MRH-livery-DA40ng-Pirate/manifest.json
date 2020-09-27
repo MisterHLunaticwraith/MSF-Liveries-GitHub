@@ -1,0 +1,20 @@
+{
+    "dependencies": [
+      {
+        "name": "asobo-aircraft-da40-ng",
+        "package_version": "0.1.49"
+      }
+    ],
+    "content_type": "AIRCRAFT",
+    "title": "DA40NG Pirate",
+    "manufacturer": "Diamond Aircraft",
+    "creator": "Asobo Studio modified by Mr H.",
+    "package_version": "1.0.0",
+    "minimum_game_version": "1.8.2",
+    "release_notes": {
+      "neutral": {
+        "LastUpdate": "All decals are creative commons pictures sources: https://pixabay.com/vectors/halloween-horror-skeleton-skull-2027480/ https://pixabay.com/vectors/pirate-crossbones-skull-flag-bones-47705/",
+        "OlderHistory": ""
+      }
+    }
+  }

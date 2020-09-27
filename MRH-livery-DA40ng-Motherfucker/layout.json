@@ -1,0 +1,69 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/aircraft.cfg",
+	  "size": 3874,
+	  "date": 1601207894204
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 12583040,
+	  "date": 1601143390157
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213492952
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_LANDING_ALBD.PNG.dds",
+	  "size": 3145856,
+	  "date": 1601143443320
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493002
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_LIVERY_ALBD.PNG.dds",
+	  "size": 12416,
+	  "date": 1601143486630
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493023
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_WINGS_ALBD.PNG.dds",
+	  "size": 12583040,
+	  "date": 1601143531011
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493069
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/SCREENCAPTURE0_LE.PNG",
+	  "size": 6341711,
+	  "date": 1601165392789
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/texture.CFG",
+	  "size": 247,
+	  "date": 1601164239911
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/thumbnail.JPG",
+	  "size": 101827,
+	  "date": 1601167731487
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/thumbnail_small.JPG",
+	  "size": 39815,
+	  "date": 1601167781779
+	}
+  ]
+}

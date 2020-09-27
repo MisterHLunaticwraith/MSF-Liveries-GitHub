@@ -1,0 +1,69 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/aircraft.cfg",
+	  "size": 2004,
+	  "date": 1601222818208
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 5592580,
+	  "date": 1601209716760
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213492952
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_LANDING_ALBD.PNG.dds",
+	  "size": 1398276,
+	  "date": 1601209786735
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493002
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_LIVERY_ALBD.PNG.dds",
+	  "size": 5636,
+	  "date": 1601204889896
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493023
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_WINGS_ALBD.PNG.dds",
+	  "size": 5592580,
+	  "date": 1601209829502
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493069
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/SCREENCAPTURE0_LE.PNG",
+	  "size": 6279549,
+	  "date": 1601210905426
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/texture.CFG",
+	  "size": 247,
+	  "date": 1601164239911
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/thumbnail.JPG",
+	  "size": 80031,
+	  "date": 1601210992289
+	},
+	{
+	  "path": "SimObjects/Airplanes/Pirate_DA40ng/TEXTURE.PIRATE/thumbnail_small.JPG",
+	  "size": 33303,
+	  "date": 1601211032246
+	}
+  ]
+}
