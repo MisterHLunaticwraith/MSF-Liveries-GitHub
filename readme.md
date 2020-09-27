@@ -7,7 +7,7 @@
 </p>
 
 # About :
-* All liveries by ** Mr H.**
+* All liveries by  **Mr H.**
 * All liveries are free to distribute and modify
 
 # DA40 NG Liveries
@@ -41,7 +41,9 @@
 
 # Sources of the decals
 * I didn't create the some of the decals on these liveries, when that is the case the decals I found where under Creative Commons licensing, all credits go to their original creators. Sources are listed in the manifest.json files
+
 Links to the source files :
+
 <a href="https://pixabay.com/vectors/halloween-horror-skeleton-skull-2027480/"> 3 skulls decal </a>.<br/>
 
 <a href="https://pixabay.com/vectors/pirate-crossbones-skull-flag-bones-47705/"> Pirate flag decal </a>.<br/>
