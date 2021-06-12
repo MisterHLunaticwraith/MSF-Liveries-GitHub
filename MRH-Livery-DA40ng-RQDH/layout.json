@@ -1,0 +1,89 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/aircraft.cfg",
+	  "size": 2003,
+	  "date": 1604488274828
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/MODEL.RQDH/model.cfg",
+	  "size": 267,
+	  "date": 1604488030873
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40NG_MAIN_PANEL_ALBD.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1603458776883
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40NG_MAIN_PANEL_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213494048
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1603639235172
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213492952
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS",
+	  "size": 1398276,
+	  "date": 1603639285908
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493002
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_LIVERY_ALBD.PNG.dds",
+	  "size": 5636,
+	  "date": 1601204889896
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493023
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1603639327236
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1598213493069
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/SCREENCAPTURE0_LE.PNG",
+	  "size": 6279549,
+	  "date": 1601210905426
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/SCREENCAPTURE1_LE.PNG",
+	  "size": 6150061,
+	  "date": 1603640132971
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/texture.CFG",
+	  "size": 247,
+	  "date": 1601164239911
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/thumbnail.JPG",
+	  "size": 79254,
+	  "date": 1603640238139
+	},
+	{
+	  "path": "SimObjects/Airplanes/RQDH_DA40ng/TEXTURE.RQDH/thumbnail_small.JPG",
+	  "size": 32686,
+	  "date": 1603640282144
+	}
+  ]
+}

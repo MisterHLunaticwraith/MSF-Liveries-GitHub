@@ -2,8 +2,13 @@
   "content": [
 	{
 	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/aircraft.cfg",
-	  "size": 3874,
-	  "date": 1601207894204
+	  "size": 2023,
+	  "date": 1604488080871
+	},
+	{
+	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/MODEL.MOTHERFUCKER/model.cfg",
+	  "size": 267,
+	  "date": 1604488030873
 	},
 	{
 	  "path": "SimObjects/Airplanes/Motherfucker_DA40ng/TEXTURE.MOTHERFUCKER/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
